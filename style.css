@@ -1,0 +1,169 @@
+.notice{
+    display:flex;
+
+    justify-content: space-between;
+
+    flex-wrap: wrap;
+
+     background-color:#870E46 ;
+     position: relative;
+}
+
+.notice p{
+    position: absolute;
+    top:50px;
+    left: 50px;
+    opacity: 0;
+    border: solid 2px black;
+}
+.notice:hover p{
+    opacity: 1;
+}
+img{
+
+    border: solid 2px black;
+
+}
+h3{
+    color:#FF66F0;
+font-size: 50px;
+text-align: center;    
+}
+
+
+.slips{
+    display:flex;
+
+    justify-content: space-between;
+
+    flex-wrap: wrap;
+
+     background-color:#D4BF15 ;
+     position: relative;
+}
+
+.slips p{
+    position: absolute;
+    top:50px;
+    left: 50px;
+    opacity: 0;
+    border: solid 2px black;
+}
+.slips:hover p{
+    opacity: 1;
+}
+img{
+
+    border: solid 2px black;
+
+}
+h3{
+    color:#FF66F0;
+font-size: 50px;
+text-align: center;    
+}
+
+
+
+
+.Syllabus{
+    display:flex;
+
+    justify-content: space-between;
+
+    flex-wrap: wrap;
+
+     background-color:#D40063 ;
+     position: relative;
+}
+
+.Syllabus p{
+    position: absolute;
+    top:50px;
+    left: 50px;
+    opacity: 0;
+    border: solid 2px black;
+}
+.Syllabus:hover p{
+    opacity: 1;
+}
+img{
+
+    border: solid 2px black;
+
+}
+h3{
+    color:#FF66F0;
+font-size: 50px;
+text-align: center;    
+}
+
+
+
+
+.Profile{
+    display:flex;
+
+    justify-content: space-between;
+
+    flex-wrap: wrap;
+
+     background-color:#15B9D4;
+     position: relative;
+}
+
+.Profile p{
+    position: absolute;
+    top:50px;
+    left: 50px;
+    opacity: 0;
+    border: solid 2px black;
+}
+.Profile:hover p{
+    opacity: 1;
+}
+img{
+
+    border: solid 2px black;
+
+}
+h3{
+    color:#FF66F0;
+font-size: 50px;
+text-align: center;    
+}
+
+
+
+.aboutschool{
+    display:flex;
+
+    justify-content: space-between;
+
+    flex-wrap: wrap;
+
+     background-color:#077587 ;
+     position: relative;
+}
+
+.aboutschool p{
+    position: absolute;
+    top:50px;
+    left: 50px;
+    opacity: 0;
+    border: solid 2px black;
+}
+.aboutschool:hover p{
+    opacity: 1;
+}
+img{
+
+    border: solid 2px black;
+
+}
+h3{
+    color:#FF66F0;
+font-size: 50px;
+text-align: center;    
+}
+
